@@ -12,18 +12,18 @@ console.log(typeof Error); 	 //function
 console.log(typeof Math);	 //object
 console.log(typeof JSON);	 //object
 
-console.log(Function instanceof Function);//true
-console.log(Function instanceof Object); //true
+console.log(Function instanceof Function); //true
+console.log(Function instanceof Object);  //true
 
-console.log(Array instanceof Function);//true
-console.log(Array instanceof Object);//true
+console.log(Array instanceof Function); //true
+console.log(Array instanceof Object);  //true
 
-console.log(Date instanceof Function);//true
-console.log(Date instanceof Object);//true
+console.log(Date instanceof Function); //true
+console.log(Date instanceof Object);  //true
 
-console.log(Math instanceof Function);//function
-console.log(Math instanceof Object);//true
+console.log(Math instanceof Function); //function
+console.log(Math instanceof Object);  //true
 
-console.log(JSON instanceof Function);//function
-console.log(JSON instanceof Object);//true
+console.log(JSON instanceof Function); //function
+console.log(JSON instanceof Object);  //true
 
