@@ -21,9 +21,9 @@ console.log(Array instanceof Object);  //true
 console.log(Date instanceof Function); //true
 console.log(Date instanceof Object);  //true
 
-console.log(Math instanceof Function); //function
+console.log(Math instanceof Function); //false
 console.log(Math instanceof Object);  //true
 
-console.log(JSON instanceof Function); //function
+console.log(JSON instanceof Function); //false
 console.log(JSON instanceof Object);  //true
 
